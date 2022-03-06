@@ -1,3 +1,3 @@
 # Machine-learning
 
-Assignment for machine learing 
+Assignment for machine learning 
